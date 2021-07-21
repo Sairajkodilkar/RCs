@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/sairaj/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/cregex'
+let g:netrw_dirhist_6='/home/sairaj/Documents/Collegework and Programs/PPL/Tic-Toc-Toe/tictactoe.py'
+let g:netrw_dirhist_5='/home/sairaj/Documents/Collegework and Programs/Cwork'
+let g:netrw_dirhist_4='/home/sairaj/CSAT/gmat_orbit_raising/results'
+let g:netrw_dirhist_3='/home/sairaj/Documents/Collegework and Programs/Project/src'
+let g:netrw_dirhist_2='/home/sairaj/temp/newnew'
+let g:netrw_dirhist_1='/home/sairaj/Documents/Collegework and Programs/Project/include'
+let g:netrw_dirhist_0='/etc'
+let g:netrw_dirhist_9='/home/sairaj/CSAT/gmat_orbit_raising/orient'
+let g:netrw_dirhist_8='/home/sairaj/Documents/Collegework and Programs/Cwork/DSAclass/homework'
